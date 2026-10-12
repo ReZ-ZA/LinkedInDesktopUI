@@ -13,7 +13,7 @@ name: .NET Framework Desktop
 
 on:
   push:
-    branches: [ "master", "copilot/fix-failing-github-actions-job" ]
+    branches: [ "master" ]
   pull_request:
     branches: [ "master" ]
 
